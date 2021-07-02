@@ -1,0 +1,7 @@
+7_2RNN_tensorflow
+optimizer
+gradienttape
+one_hot
+[:, t, :]
+class dataloader -> class RNN
+Loss = CrossEntropy -> Softmax
